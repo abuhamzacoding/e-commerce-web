@@ -1,0 +1,80 @@
+/* navigation css */
+#navsection{
+    background-color: #66FCF1;
+
+}
+
+#navbarNavDropdown{
+    justify-content: center;
+    
+}
+
+/* crousel css */
+#carousel-section{
+    margin-top: 2rem !important;
+}
+
+.d-block{
+    border-radius: 0.5rem;
+}
+
+/* about-us */
+.img-fluid{
+    border-radius: 8px;
+    box-shadow: black;
+}
+
+#about-img{
+    max-width: 80%;
+}
+
+.about-us{
+    background-color: #C5C6C7;
+    margin-top: 35px;
+}
+/* category */
+#category-section{
+    margin-top: 2rem !important;
+    margin-bottom: 2rem !important;
+}
+
+/* slider */
+.featured{
+    margin-bottom: 20px;
+}
+/* review */
+.row1{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.col1{
+    position: relative;
+    margin: 20px 0;
+    width: 300px;
+    height: 400px;
+}
+
+.reviewimg{
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+}
+
+/* fourth section */
+.row1{
+    text-align: center;
+    font-family: montserrat-bold;
+}
+.i1{
+    color: #45A29E;
+    font-size: xx-large;
+}
+#features{
+    padding: 7% 15%;
+    background-color: #C5C6C7;
+   position: relative;
+   z-index: 1;
+
+}

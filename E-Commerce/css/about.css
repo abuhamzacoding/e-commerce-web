@@ -1,0 +1,21 @@
+/* about scc */
+.img{
+    width: 100%;
+    height: 500px;
+}
+
+.about{
+    position: absolute;
+    z-index: 1;
+    border: 2px solid green;
+    width: 30%;
+    height: 100px;
+    left: 35%;
+    top: 30%;
+    text-align: center;
+}
+
+.heading{
+    padding-top: 20px;
+    
+}
